@@ -2,7 +2,7 @@
 
 [Dashing-Rails](https://github.com/gottfrois/dashing-rails) widget that changes the widget's color depending on the value displayed.
 
-![alt text](http://dashboarddude.com/images/posts/dashing-hotness-widget/cool.png)
+<img src="http://dashboarddude.com/images/posts/dashing-hotness-widget/cool.png" width="200">
 
 ## Installation
 
@@ -63,3 +63,9 @@ The default colour scheme is [Sweet Lolly](http://www.colourlovers.com/palette/5
 ## Author
 
 Full credits for this widget should go to [Rowan](http://dashboarddude.com/). Please read his [blog post](http://dashboarddude.com/blog/2013/08/16/dashing-dashboard-widget-challenge-the-hotness/) for more informations about the widget.
+
+## License
+
+The colour schemes and this widget are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) license.
+
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="100">
