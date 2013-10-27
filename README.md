@@ -34,6 +34,24 @@ Follow the following steps in order to make it work on your dashing-rails projec
 
 *Note: the paths to index files may have changed depending on your Dashing-Rails configuration.*
 
+### Fields
+
+#### Required
+
+* `data-id`: Like all widgets, you must include an identifier so that your jobs can update the value.
+* `data-cool`: Anything below this value will show the 'cold' colour. It should be set high enough to include all the 'good' range of value for this metric.
+* `data-warm`: Anything above this value will show the 'hot' colour. It should be set just below the 'bad' range of value for this metric - ie. those that need attention!
+
+##### Not Required
+
+* `data-title`: Optional title to show in the widget box (above the value).
+* `data-prefix`: Optional prefix to the value.
+* `data-suffix`: Optional suffix to the value.
+
+### Colors
+
+The default colour scheme is [Sweet Lolly](http://www.colourlovers.com/palette/56122/Sweet_Lolly) by [nekyo](http://www.colourlovers.com/lover/nekoyo).
+
 ## Contributing
 
 1. Fork it
