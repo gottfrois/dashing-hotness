@@ -2,7 +2,8 @@
 
 [Dashing-Rails](https://github.com/gottfrois/dashing-rails) widget that changes the widget's color depending on the value displayed.
 
-![alt text](http://dashboarddude.com/images/posts/dashing-hotness-widget/cool.png "Logo Title Text 1")
+![alt text](http://dashboarddude.com/images/posts/dashing-hotness-widget/cool.png)
+![alt text](http://dashboarddude.com/images/posts/dashing-hotness-widget/neutral.png)
 
 Full credits goes to [Rowan](http://dashboarddude.com/blog/2013/08/16/dashing-dashboard-widget-challenge-the-hotness/)
 
@@ -10,7 +11,7 @@ Full credits goes to [Rowan](http://dashboarddude.com/blog/2013/08/16/dashing-da
 
 Add this line to your [Dashing-Rails](https://github.com/gottfrois/dashing-rails) application's Gemfile (through git):
 
-    gem 'dashing-hotness', git: '', branch: :master
+    gem 'dashing-hotness', git: 'git://github.com/gottfrois/dashing-hotness.git', branch: :master
 
 And then execute:
 
