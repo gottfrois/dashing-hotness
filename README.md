@@ -6,9 +6,9 @@
 
 ## Installation
 
-Add this line to your [Dashing-Rails](https://github.com/gottfrois/dashing-rails) application's Gemfile (through git):
+Add this line to your [Dashing-Rails](https://github.com/gottfrois/dashing-rails) application's Gemfile:
 
-    gem 'dashing-hotness', git: 'git://github.com/gottfrois/dashing-hotness.git', branch: :master
+    gem 'dashing-hotness'
 
 And then execute:
 
