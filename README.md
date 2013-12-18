@@ -69,3 +69,7 @@ Full credits for this widget should go to [Rowan](http://dashboarddude.com/). Pl
 The colour schemes and this widget are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) license Developed by [Rowan](http://dashboarddude.com/). Adapted by [gottfrois](https://github.com/gottfrois).
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="100">
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gottfrois/dashing-hotness/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
